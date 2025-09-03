@@ -1,1 +1,1 @@
-install npm i in client folder
+ npm i in client folder
